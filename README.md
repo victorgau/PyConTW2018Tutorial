@@ -39,4 +39,4 @@ pip install git+https://github.com/pydata/pandas-datareader.git
 
 ### talib 的安裝
 
-欲在 windows 上安裝 talib，請直接至[Unofficial Windows Binaries for Python Extension Packages](Unofficial Windows Binaries for Python Extension Packages)下載對應的 .whl 檔回來安裝。
+欲在 windows 上安裝 talib，請直接至[Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)下載對應的 .whl 檔回來安裝。

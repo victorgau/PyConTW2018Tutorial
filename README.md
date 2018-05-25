@@ -1,5 +1,7 @@
 # 用 Python 做股票分析
 
+投影片網址：[https://bit.ly/2INS1W0](https://bit.ly/2INS1W0)
+
 在本次的課程中，我們會教大家使用 Python 做股票分析。內容會含括：
 
 * Numpy, MatPlotLib, Pandas 的簡單使用技巧。

@@ -25,7 +25,7 @@
 
 ### 在教學過程中，大家可能會遇到問題的套件
 
-* pandas-datareader
+#### pandas-datareader 的安裝
 
 理論上，我們已經不需要使用 pandas-datareader，因為 pandas-datareader 已經不再支援 yahoo finance，而且對於 google finance 也有可能隨時不支援。但是，因為 ffn 會使用到 pandas-datareader，所以還是要安裝一個可以使用的 pandas-datareader。
 
@@ -37,6 +37,6 @@ pip install git+https://github.com/pydata/pandas-datareader.git
 
 請參閱：[pandas-datareader官網說明文件](https://pandas-datareader.readthedocs.io/en/latest/#install-latest-development-version)
 
-* talib
+#### talib 的安裝
 
-在 windows 上安裝 talib，請直接至[Unofficial Windows Binaries for Python Extension Packages](Unofficial Windows Binaries for Python Extension Packages)下載對應的 .whl 檔回來安裝。
+欲在 windows 上安裝 talib，請直接至[Unofficial Windows Binaries for Python Extension Packages](Unofficial Windows Binaries for Python Extension Packages)下載對應的 .whl 檔回來安裝。
